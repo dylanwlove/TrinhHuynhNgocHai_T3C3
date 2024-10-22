@@ -1,4 +1,4 @@
-<h3 align="center"> Trịnh Huỳnh Ngọc Hải - Thứ 3 - Ca 2 </h3>
+<h3 align="center"> Trịnh Huỳnh Ngọc Hải - Thứ 3 - Ca 3 </h3>
 <a href="#" target="_blank">
   <img src="ngochai.svg" width="1200" alt="ngochai-official" />
 </a>
